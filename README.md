@@ -1,3 +1,7 @@
+# This repository has moved to [frontend-configs](https://github.com/sevenval/frontend-configs/tree/master/packages/eslint-config-sevenval)
+
+Please follow the link to open new issues and PRs.
+
 # Sevenval ESLint Rules
 
 [![Build Status](https://travis-ci.org/sevenval/eslint-config-sevenval.svg?branch=master)](https://travis-ci.org/sevenval/eslint-config-sevenval)
